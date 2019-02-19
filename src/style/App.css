@@ -1,0 +1,107 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.header_title {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #66b7af;
+  color: #f1eae0;
+  font-family: serif;
+  border-radius: 33px 2px 33px 3px;
+}
+
+.header_description {
+  text-align: justify;
+  font-size: 16px;
+  background : rgba(55, 54, 56, 0.103);
+  border-radius: 3px;
+  font-family: tahoma;
+  padding: 5px;
+  margin-bottom: 7px;
+}
+.login{
+  float: right !important;
+}
+
+.row-product {
+  margin: 20px auto;
+}
+
+.shop-card {
+  padding: 10px 16px;
+}
+
+.cart-button {
+  position: fixed;
+  bottom: 40px;
+  right: 50px;
+}
+
+.ant-form-item {
+  margin-bottom: 0px !important;
+}
+.cart-btn{
+  background: #ecab4c !important;
+  border: 1px solid  #f1eae0 !important;
+  color:  #318078 !important;
+  font-weight: 500 !important;
+}
+.cart-btn:hover{
+  background: #66b7af !important;
+  color:  #ecab4c !important;
+}
+.shop-card {
+    padding: 10px 16px !important;
+    text-align: justify !important;
+    background: #deefed9e;
+}
+.close{
+  color: red ;
+}
+.about-h{
+  margin-top: 15px;
+  text-align: center;
+  background: #ecab4c;
+  color: white;
+  border-radius: 2px;
+}
+.about-p{
+  background: #a3d4cf;
+  padding: 25px;
+  font-size: 15px;
+}
+.login-h{
+  margin: 20px !important;
+  text-align: center !important;
+}
+.login-btn{
+  margin: 10px 0;
+  text-align: center;
+  background: #a3d4cf !important;
+  border: none !important;
+  outline: none !important;
+}
+.login-btn:hover{
+  background: #ecab4c !important;
+  border: none;
+  color: #FFF !important;
+}
+.footer{
+  width: 100%;
+  background: #66b7af;
+  text-align: center;
+  color: #c9ece8;
+  font-size: 13px;
+  font-family: tahoma;
+  font-weight: 600;
+  margin-top: 50px;
+  border-radius: 2px;
+}
+.footer-icon a{
+  font-size: 28px;
+  padding: 2px 10px;
+  color: #fff;
+}
